@@ -1,0 +1,6 @@
+[submodule "jpacman-framework"]
+	path = jpacman-framework
+	url = git@github.com:SERG-Delft/jpacman-framework.git
+[submodule "jpacman-template"]
+	path = jpacman-template
+	url = git@github.com:SERG-Delft/jpacman-template.git
