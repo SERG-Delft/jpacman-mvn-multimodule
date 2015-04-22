@@ -1,5 +1,5 @@
-# JPacman Framework in Intellij Idea
-## Setting up Intellij with Coverage Reports
+# JPacman Framework Maven Multimodule
+## Setting up JPF in Intellij with Coverage Reports
 1. After importing the project in Intellij right click the folder `jpacman-template/src/main/java`.
 2. Press `Create 'All Tests'...`
 3. Click `OK`
